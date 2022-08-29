@@ -15,12 +15,19 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/mostafa_tafa1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/mostafa_tafa1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mostafa-ahmed-aa843bba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mostafa-ahmed-aa843bba/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/tafa7005/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/tafa7005/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/tafa7000/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/tafa7000/" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://www.behance.net/tafa70001cfa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/tafa70001cfa" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/user/tafa7000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCMHx5ALgMZJjKe3agjhKl-Q" height="30" width="40" /></a>
+<a href="https://twitter.com/mostafa_tafa1" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/mostafa_tafa1" height="30" width="40" /></a>
+  
+<a href="https://www.linkedin.com/in/mostafa-ahmed-aa843bba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mostafa-ahmed-aa843bba/" height="30" width="40" /></a>
+  
+<a href="https://www.facebook.com/tafa7005/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/tafa7005/" height="30" width="40" /></a>
+  
+<a href="https://www.instagram.com/tafa7000/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/tafa7000/" height="30" width="40" /></a>
+  
+<a href="https://www.behance.net/tafa70001cfa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/tafa70001cfa" height="30" width="40" /></a>
+  
+<a href="https://www.youtube.com/user/tafa7000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCMHx5ALgMZJjKe3agjhKl-Q" height="30" width="40" /></a>
+  
 <a href="https://discord.gg/tafa_7000#3861" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tafa_7000#3861" height="30" width="40" /></a>
 </p>
 
